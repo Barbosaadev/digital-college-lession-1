@@ -1,0 +1,14 @@
+{
+  "name": "picpay-clone",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": "",
+  "license": "",
+  "author": "",
+  "scripts": {
+    "start": "browser-sync start --server --files 'src/**/*'  --ss 'src'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
